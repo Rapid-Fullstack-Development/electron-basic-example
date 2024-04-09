@@ -1,0 +1,15 @@
+{
+  "name": "electron-basic-example",
+  "version": "1.0.0",
+  "description": "A basic example of Electron that accompanies the book Rapid Fullstack Development.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.2.0"
+  }
+}
