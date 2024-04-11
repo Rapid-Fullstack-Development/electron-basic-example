@@ -6,7 +6,7 @@ This was created by following the [Electron quick start](https://www.electronjs.
 
 ## Pre reqs
 
-You need [Node.js](https://nodejs.org] installed to run this.
+You need [Node.js](https://nodejs.org) installed to run this.
 
 ## Setup
 
