@@ -1,6 +1,6 @@
 # Electron basic example 
 
-A basic example of Electron that accompanies the book [Rapid Fullstack Development](https://rapidfullstackdevelopment.com/).
+A basic example of using Electron for a desktop application that accompanies the book [Rapid Fullstack Development](https://rapidfullstackdevelopment.com/).
 
 This was created by following the [Electron quick start](https://www.electronjs.org/docs/latest/tutorial/quick-start) and then making some simplifications.
 
